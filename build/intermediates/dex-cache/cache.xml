@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vanhauten/.android/build-cache/5f5dc53666ed3d5f1aa1f1180ed6138eb02bf138/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_aa6c87900661d3b508e0fe21416263588b7e3497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vanhauten/.android/build-cache/96ded073689475f93d69d50f98ded7d44be00f73/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_b4c08ef1e57bc4fbbdfbfba8036442a35c4bd1b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vanhauten/.android/build-cache/a6965e91510704a85117ce434dc9ce2b29965e36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_0a6a5abde24e434044b2c8d6bdf02c25e44c5ada.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vanhauten/.android/build-cache/96ded073689475f93d69d50f98ded7d44be00f73/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_09f52bfe57003cd6dd2798d31c754cf650e1fa1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_532a6bf4532b5677cd30149d99fb59ff6cb4801b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vanhauten/.android/build-cache/379559616ed3c0b4a15022c08f4d9c207b7b94dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/classes_f7de68dbf078d4415bec328ab69b45dc1eb7bcee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vanhauten/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_2f37a33977b15c43b0fe79e235bc3c7e2786d3b4.jar" />
+    </item>
+
+</items>

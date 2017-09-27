@@ -1,0 +1,22 @@
+#Fri Aug 25 13:36:07 WIB 2017
+renamed.6=classes2.dex
+renamed.5=classes3.dex
+renamed.4=classes.dex
+renamed.3=classes7.dex
+renamed.2=classes6.dex
+renamed.1=classes5.dex
+renamed.0=classes4.dex
+base.6=/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09f52bfe57003cd6dd2798d31c754cf650e1fa1e
+base.5=/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_532a6bf4532b5677cd30149d99fb59ff6cb4801b
+base.4=/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_b4c08ef1e57bc4fbbdfbfba8036442a35c4bd1b0
+base.3=/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7de68dbf078d4415bec328ab69b45dc1eb7bcee
+base.2=/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa6c87900661d3b508e0fe21416263588b7e3497
+base.1=/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a6a5abde24e434044b2c8d6bdf02c25e44c5ada
+base.0=/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_2f37a33977b15c43b0fe79e235bc3c7e2786d3b4
+file.6=/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09f52bfe57003cd6dd2798d31c754cf650e1fa1e/classes.dex
+file.5=/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_532a6bf4532b5677cd30149d99fb59ff6cb4801b/classes.dex
+file.4=/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_b4c08ef1e57bc4fbbdfbfba8036442a35c4bd1b0/classes.dex
+file.3=/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7de68dbf078d4415bec328ab69b45dc1eb7bcee/classes.dex
+file.2=/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa6c87900661d3b508e0fe21416263588b7e3497/classes.dex
+file.1=/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a6a5abde24e434044b2c8d6bdf02c25e44c5ada/classes.dex
+file.0=/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_2f37a33977b15c43b0fe79e235bc3c7e2786d3b4/classes.dex

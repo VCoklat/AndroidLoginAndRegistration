@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/vanhauten/.android/build-cache/a6965e91510704a85117ce434dc9ce2b29965e36/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/vanhauten/.android/build-cache/a6965e91510704a85117ce434dc9ce2b29965e36/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/vanhauten/Documents/android project/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/vanhauten/.android/build-cache/fe772e27101ed9f7aa59392a2d5c8bb7b1580bff/output/res/drawable/abc_item_background_holo_dark.xml"
+    }
+]
